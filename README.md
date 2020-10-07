@@ -1,7 +1,7 @@
-# `gets` CLI Input
+# `gets` CLI Input 
 
 ## Objectives
-1. Understand the significance of capturing and operating on user input in a CLI application.
+1. Understand the significance of capturing and  operating on user input in a CLI application.
 2. Create a prompt for user input in a CLI.
 3. Use the `#gets` method to capture, store, and operate on that input.
 
